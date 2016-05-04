@@ -1,0 +1,1 @@
+Basic Bootstrap 3 template taken from [Bootstrap official page](http://getbootstrap.com/getting-started/)
